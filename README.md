@@ -4,7 +4,7 @@ A Python desktop application that automatically organizes messy folders by sorti
 
 ## 📸 Application Preview
 
-![Smart File Automation](screenshot.png)
+![Smart File Automation](Screenshot%202026-08-28%20021658.png)
 
 ## 🚀 Features
 
