@@ -2,6 +2,10 @@
 
 A Python desktop application that automatically organizes messy folders by sorting files into folders based on their file types.
 
+## 📸 Application Preview
+
+![Smart File Automation](screenshot.png)
+
 ## 🚀 Features
 
 - Automatically organizes files
